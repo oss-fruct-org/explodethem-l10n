@@ -1,0 +1,177 @@
+# Translations template for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-05-02 10:34+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.11.0-rc1\n"
+"Generated-By: Babel 1.3\n"
+
+msgctxt "app_name"
+msgid "ExplodeThem"
+msgstr ""
+
+msgctxt "hello_world"
+msgid "Hello world!"
+msgstr ""
+
+msgctxt "action_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "explode_them"
+msgid "Explode Them"
+msgstr ""
+
+msgctxt "ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "about_app_name"
+msgid "Explode Them"
+msgstr ""
+
+msgctxt "about_text"
+msgid ""
+"Copyright © 2012, 2014 FRUCT Lab in IT-park of Petrozavodsk State "
+"University. Main developer is Artemov Nikita. Android port by Kirill "
+"Ivashov."
+msgstr ""
+
+msgctxt "game_over_title"
+msgid "Game Over"
+msgstr ""
+
+msgctxt "game_over_score"
+msgid "Your score:"
+msgstr ""
+
+msgctxt "game_over_name"
+msgid "Your name:"
+msgstr ""
+
+msgctxt "game_over_enter_name"
+msgid "Enter name"
+msgstr ""
+
+msgctxt "help_title"
+msgid "Help"
+msgstr ""
+
+msgctxt "highscore_title"
+msgid "Highscore"
+msgstr ""
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr ""
+
+msgctxt "menu_highscore"
+msgid "Highscore"
+msgstr ""
+
+msgctxt "menu_about"
+msgid "About"
+msgstr ""
+
+msgctxt "menu_quit"
+msgid "Quit"
+msgstr ""
+
+msgctxt "menu_new_game"
+msgid "New game"
+msgstr ""
+
+msgctxt "menu_easy"
+msgid "Easy"
+msgstr ""
+
+msgctxt "menu_medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "menu_hard"
+msgid "Hard"
+msgstr ""
+
+msgctxt "menu_continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "next_level_title"
+msgid "Next level"
+msgstr ""
+
+msgctxt "play_score"
+msgid "Score:"
+msgstr ""
+
+msgctxt "play_level"
+msgid "Level:"
+msgstr ""
+
+msgctxt "play_shakes"
+msgid "Shakes:"
+msgstr ""
+
+msgctxt "store_text_free"
+msgid ""
+"Explode Them is arcade game. On the area scattered bombs of different "
+"sizes. By clicking on the bomb you're spending a spark increase in the "
+"amount of it. After reaching a certain size, it explodes in the scattered"
+" sparks of which interact with the other bombs. The number of sparks is "
+"limited. You get a new spark after the end of each level, or after the "
+"fifth explosion. The main goal of the game to explode as many bombs until"
+" spark did not end."
+msgstr ""
+
+msgctxt "store_text_full"
+msgid ""
+"Explode Them is arcade game. On the area scattered bombs of different "
+"sizes. By clicking on the bomb you're spending a spark increase in the "
+"amount of it. After reaching a certain size, it explodes in the scattered"
+" sparks of which interact with the other bombs. The number of sparks is "
+"limited. You get a new spark after the end of each level, or after the "
+"fifth explosion. The main goal of the game to explode as many bombs until"
+" spark did not end. Features of full version: - 3 level of difficult; - "
+"shake effect; - water bombs."
+msgstr ""
+
+msgctxt "help_strings:0"
+msgid ""
+"When you push the bomb you will spend a spark. If no sparks are available"
+" then game is over."
+msgstr ""
+
+msgctxt "help_strings:1"
+msgid ""
+"If the bomb acquires a red color then next push will cause explosion. You"
+" can't push the bomb until reaction doesn't stop"
+msgstr ""
+
+msgctxt "help_strings:2"
+msgid "You get one spark after every fifth bomb explosion and at the end of level"
+msgstr ""
+
+msgctxt "help_strings:3"
+msgid ""
+"The main goal is to explode as many bombs as possible using the least "
+"amount of sparks"
+msgstr ""
+
+msgctxt "help_strings:4"
+msgid ""
+"At at game start you have three shakes. Shake the phone and all red bombs"
+" will explode."
+msgstr ""
