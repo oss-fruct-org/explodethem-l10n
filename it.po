@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-05-05 01:05+0400\n"
+"POT-Creation-Date: 2014-09-30 15:42+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: it <LL@li.org>\n"
@@ -123,6 +123,10 @@ msgstr ""
 
 msgctxt "play_shakes"
 msgid "Shakes:"
+msgstr ""
+
+msgctxt "menu_buy"
+msgid "Buy"
 msgstr ""
 
 #, fuzzy
